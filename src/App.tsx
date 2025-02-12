@@ -203,7 +203,7 @@ function App() {
                 <Mail className="w-8 h-8 text-orange-500 mr-6" />
                 <div>
                   <h3 className="font-semibold text-lg text-blue-900 mb-1">Email Us</h3>
-                  <a href ="mailto:info@indzabukotrading.co.za"></><p>info@indzabukotrading.co.za</p></a>
+                  <a href ="mailto:info@indzabukotrading.co.za"><p>info@indzabukotrading.co.za</p></a>
                 </div>
               </div>
               <div className="flex items-center p-6 bg-gray-50 rounded-lg transform hover:-translate-y-1 transition-transform duration-300">
